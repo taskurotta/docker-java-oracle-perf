@@ -1,4 +1,4 @@
-FROM taskurotta/java:8
+FROM taskurotta/java-oracle:8
 MAINTAINER Taskurotta <taskurotta@googlegroups.com>
 
 # Install https://github.com/jrudolph/perf-map-agent
